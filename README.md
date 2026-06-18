@@ -9,8 +9,8 @@ python3 main.py
 # Charts
 
 ```sh
-git Clone
-cd charts
+git clone
+cd Charts
 source venv/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
